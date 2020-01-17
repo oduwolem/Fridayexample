@@ -17,6 +17,7 @@ public class ExampleFriday {
     public static void main(String[] args) {
                 System.out.println("learning github");
                 System.out.println("moses is here define");
+                System.out.println("my big head");
     }
     
 }
